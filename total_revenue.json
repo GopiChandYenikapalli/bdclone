@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "Apparel",
+    "total_revenue": 26633480.4
+  },
+  {
+    "_id": "Accessories",
+    "total_revenue": 30252057.78
+  },
+  {
+    "_id": "Electronics",
+    "total_revenue": 14096434.32
+  }
+]
